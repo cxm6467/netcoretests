@@ -1,0 +1,16 @@
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\UnitTests.Tests.deps.json
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\UnitTests.Tests.runtimeconfig.json
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\UnitTests.Tests.runtimeconfig.dev.json
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\UnitTests.Tests.dll
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\UnitTests.Tests.pdb
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\UnitTests.dll
+C:\projects\AWS\UnitTests.Tests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+C:\projects\AWS\UnitTests.Tests\obj\Debug\netcoreapp2.1\UnitTests.Tests.csprojAssemblyReference.cache
+C:\projects\AWS\UnitTests.Tests\obj\Debug\netcoreapp2.1\UnitTests.Tests.AssemblyInfoInputs.cache
+C:\projects\AWS\UnitTests.Tests\obj\Debug\netcoreapp2.1\UnitTests.Tests.AssemblyInfo.cs
+C:\projects\AWS\UnitTests.Tests\obj\Debug\netcoreapp2.1\UnitTests.Tests.csproj.CopyComplete
+C:\projects\AWS\UnitTests.Tests\obj\Debug\netcoreapp2.1\UnitTests.Tests.dll
+C:\projects\AWS\UnitTests.Tests\obj\Debug\netcoreapp2.1\UnitTests.Tests.pdb

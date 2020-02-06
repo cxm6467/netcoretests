@@ -1,0 +1,10 @@
+C:\projects\AWS\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+C:\projects\AWS\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+C:\projects\AWS\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+C:\projects\AWS\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+C:\projects\AWS\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+C:\projects\AWS\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+C:\projects\AWS\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+C:\projects\AWS\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+C:\projects\AWS\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+C:\projects\AWS\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
